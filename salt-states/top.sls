@@ -1,4 +1,5 @@
 base:
   '*':
-#    - nginx
+    - nginx
+    - build-tools
     - pip
