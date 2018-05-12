@@ -5,4 +5,5 @@ build tools:
       - build-essential
       - python
       - python-dev
+      - vim
 
